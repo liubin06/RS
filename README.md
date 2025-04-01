@@ -1,4 +1,3 @@
-# Variational-BPR
 
 ## 1. Prerequisites
 - Python 3.7 
