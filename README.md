@@ -28,7 +28,7 @@
 
 ## 4.Model Pretraining
 
-For each dataset, the backbone model hyperparameters for BPR and VBPR are fixed the same. For instance, run the following command to train an embedding on different datasets.
+For instance, run the following command to train an embedding on different datasets.
 
 
 ```
